@@ -46,7 +46,7 @@ class Block {
    
     }
     score(){
-      if(this.visiblity<0&&this.visiblity>-105){
+      if(this.visiblity<0&&this.visiblity>-1005){
         score++
       }
     }
